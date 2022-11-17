@@ -6,7 +6,7 @@ import App from './App';
 import { HashRouter as Router } from "react-router-dom";
 ReactDOM.render(
   // <React.StrictMode>
-  <Router path='/'>
+  <Router>
     <App />
   </Router>,
   // </React.StrictMode>,
