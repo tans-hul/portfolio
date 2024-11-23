@@ -45,7 +45,7 @@ function App() {
                 Contact
               </a>
               <a
-                href="file:///C:/Users/tanshul/Downloads/Tanshul_2010992469.pdf"
+                href="file:///C:/Users/tanshul/Downloads/Tanshul_resume.pdf"
                 className="ml-auto text-base text-textBase font-medium hover:text-slate-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl hover:border-gray-100 duration-100 ease-in"
               >
                 Download
