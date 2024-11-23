@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.597e066b.css",
-    "main.js": "/static/js/main.2eafde69.js",
+    "main.css": "/static/css/main.2c1b0226.css",
+    "main.js": "/static/js/main.a1fca630.js",
     "static/media/dashboard.jpg": "/static/media/dashboard.bc5f856787088f324124.jpg",
     "static/media/electro.jpg": "/static/media/electro.3d054d74c6fd780ea820.jpg",
-    "static/media/vetri.jpeg": "/static/media/vetri.394f580bb64a706766bf.jpeg",
     "static/media/CryptoVerse.jpg": "/static/media/CryptoVerse.7210c10a08cd1740c227.jpg",
     "static/media/oneplus.jpg": "/static/media/oneplus.b9f76a0093e7d95ad99a.jpg",
     "static/media/Cars.jpg": "/static/media/Cars.6bbcdb2803db9a43d08c.jpg",
+    "static/media/vetri.jpeg": "/static/media/vetri.c72308bdaee11dfad1dc.jpeg",
     "index.html": "/index.html",
-    "main.597e066b.css.map": "/static/css/main.597e066b.css.map",
-    "main.2eafde69.js.map": "/static/js/main.2eafde69.js.map"
+    "main.2c1b0226.css.map": "/static/css/main.2c1b0226.css.map",
+    "main.a1fca630.js.map": "/static/js/main.a1fca630.js.map"
   },
   "entrypoints": [
-    "static/css/main.597e066b.css",
-    "static/js/main.2eafde69.js"
+    "static/css/main.2c1b0226.css",
+    "static/js/main.a1fca630.js"
   ]
 }
